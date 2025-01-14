@@ -123,16 +123,6 @@ That's it!
 I don't know but we must start somewhere and I'm completely open to suggestions!
 
 
-## Who made this possible?
-
-I (Rafael Ulhoa) have been curating this collection since joining BMC in early 2022 and it's been made possible through the help of the magnificent souls below (listed alphabetically for simplicity):
-- Bjorn Heide
-- Brendan Murray
-- Jorge Xifra
-- Ricardo Carnevale
-
-And also, thanks to multiple people at IcaroTech (Business Partner in Brazil) 
-
 
 ## DISCLAIMER
 
